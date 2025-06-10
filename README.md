@@ -1,1 +1,4 @@
 # streamlit-sqlalchemy
+Integrantes : 
+- QUISHPE PUCHAICELA ALEX JAVIER
+- SARANGO  RIOFRIO SANTIAGO VLADIMIR
